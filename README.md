@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![License](https://img.shields.io/badge/License-Apache--2.0-orange)
+![GUI](https://img.shields.io/badge/GUI-Tkinter-blueviolet)
+![Acceleration](https://img.shields.io/badge/Acceleration-Numba-green)
+
 # Julia Set Viewer
 
 Interactive **Julia Set explorer** built with **Python** and **Tkinter**, featuring real-time rendering, smooth navigation, animated parameter exploration and GIF export.
