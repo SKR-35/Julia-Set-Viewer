@@ -11,21 +11,7 @@ The application allows users to explore the fascinating world of Julia sets by i
 
 ---
 
-## Gallery
-
-### Interface
-
-<p align="center">
-<img src="docs/UI_1.png" width="900">
-</p>
-
-<p align="center">
-<img src="docs/UI_2.png" width="900">
-</p>
-
----
-
-### Animated Examples
+## Animated Examples
 
 <p align="center">
 <img src="docs/Sample_1.gif" width="48%">
@@ -49,9 +35,7 @@ The application allows users to explore the fascinating world of Julia sets by i
 - Optional Numba acceleration
 - Automatic iteration scaling
 - Multiple color palettes
-    - Jade (default)
-    - Pearl
-    - Plasma
+    - Plasma (default)
     - Viridis
     - Magma
     - Inferno
@@ -65,6 +49,8 @@ The application allows users to explore the fascinating world of Julia sets by i
     - HotAndCold
     - Pastel
     - Grayscale
+	- Jade
+    - Pearl
 - Gamma adjustment
 - Julia parameter editor
     - Real component
