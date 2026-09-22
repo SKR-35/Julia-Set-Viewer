@@ -56,7 +56,7 @@ CMAPS = [
     "Pastel",
     "Grayscale",
 ]
-DEFAULT_CMAP = "plasma"
+DEFAULT_CMAP = "Jade"
 MIN_SCALE = 1e-18
 
 CUSTOM_STOPS = {
